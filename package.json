@@ -1,38 +1,38 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "S-K-BOT",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By SAD KING",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-    "start": "node Sahu.js",
+    "start": "node SK.js",
     "login": "node login",
     "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git"
+    "url": "https://github.com/Sad-King1/Sad-king-bot.git"
   },
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "SKproject",
     "messenger",
     "javascript",
-    "shadat",
-    "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "SADKING",
+    "SK",
+    "ALAMIN",
+    "S-K-BOT"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "SAD KING",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https://github.com/Sad-King1/Sad-king-bot.git"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/Sad-King1/Sad-king-bot.git",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
